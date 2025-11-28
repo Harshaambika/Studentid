@@ -4,6 +4,7 @@
 `0xEC289b221391d089299EDAf6CFA57c1f285794a7`  
 View on Flare Explorer:  
 https://coston2-explorer.flare.network/address/0xEC289b221391d089299EDAf6CFA57c1f285794a7
+<img width="1242" height="792" alt="image" src="https://github.com/user-attachments/assets/6625e645-e2e4-468d-9657-8342255a1fa5" />
 
 ---
 
